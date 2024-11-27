@@ -1,17 +1,19 @@
 ## Insallations
-pip install -r backend/requirements.txt
+`pip install -r backend/requirements.txt`
 
 ## Starting Backend
+```
 cd backend
 python init_db.py  # Only first time
 flask run
-
+```
 
 ## Starting Frontend
+```
 cd frontend
 npm install
 npm run dev
-
+```
 ## Basic View
 ![image](https://github.com/user-attachments/assets/d3fe5995-3754-406d-8a41-f55f4199e71d)
 
