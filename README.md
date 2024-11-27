@@ -12,9 +12,11 @@ cd frontend
 npm install
 npm run dev
 
-## Mermaid UML
-![UML](DatabaseUML.png)
+## Basic View
+![image](https://github.com/user-attachments/assets/d3fe5995-3754-406d-8a41-f55f4199e71d)
 
+
+## Mermaid UML
 ```mermaid
 erDiagram
     Firefighter ||--o{ BAEntry : "has"
